@@ -55,7 +55,7 @@ finance-backend/
 
 ```
 git clone <https://github.com/KshitijKashyap07/finance-tracker.git>
-cd finance-tracker
+cd finance-backend
 ```
 
 ### 2️⃣ Install dependencies
